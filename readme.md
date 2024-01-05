@@ -26,7 +26,7 @@ The BMI (Body Mass Index) Calculator is a web application designed to calculate 
 
 ### Demo :
 
-![Alt text](BMI calculator.png)
+![Alt text](BMIcalculator.png)
 
 ### You can Check it Live on Below Link :
 
